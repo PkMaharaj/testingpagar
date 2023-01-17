@@ -6,7 +6,7 @@ import java.util.regex.Pattern
 import kotlin.Exception
 
 /**
- * Strings file contains string utils and extension methods
+ * Strings file contains string utils and extension methods and additional methods
  */
 
 /**
