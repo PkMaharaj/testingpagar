@@ -8,6 +8,8 @@ import com.pagarplus.app.appcomponents.di.MyApp
 import kotlin.Boolean
 import kotlin.String
 
+
+/**Validation founctions founctions of all ui Elements**/
 /**
  * Password should have, 
  * - at least a upper case letter
