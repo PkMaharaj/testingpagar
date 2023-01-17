@@ -43,4 +43,9 @@ fun Context.showProgressDialog(
 
             return dialog
         }
-}
+		
+		
+		fun Context.showToast(message:String)
+           {
+           Toast.makeText(this,message,Toast.Length_Short).show()    
+			   }}
